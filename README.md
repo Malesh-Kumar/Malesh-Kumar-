@@ -1,4 +1,4 @@
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malesh+Kumar+🚀...+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malesh+Kumar+🚀...+!;" />
 
 <h3 align="center">A passionate frontend developer from India..!</h3>
 
